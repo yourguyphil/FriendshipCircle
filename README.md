@@ -10,3 +10,7 @@ npm run dev
 
 Go to localhost:3000
 ```
+
+## Production App URL (Hosted in herokuapp)
+
+https://friendship-circle.herokuapp.com/
