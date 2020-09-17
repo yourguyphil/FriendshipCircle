@@ -1,5 +1,5 @@
 # Friendship Circle App
-Game built with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI
+Game built with websockets using Node.js, Express, Bootstrap, and Socket.io with Vanilla JS on the frontend with a custom UI
 
 Original Code from: https://github.com/bradtraversy/chatcord
 
